@@ -27,5 +27,4 @@ function quickread(string) {
 }
 
 console.log(quickread(string));
-
 // **Enj**oy **th**is **mi**ni **proj**ect? **Cons**ider **follo**wing **m**e **o**n **Twit**ter! **@akaE**nable
